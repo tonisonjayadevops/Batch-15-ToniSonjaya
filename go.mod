@@ -1,3 +1,3 @@
-module github.com/tonisonjayadevops/batch-15-tonisonjaya
+module github.com/tonisonjayadevops/batch15tonisonjaya
 
 go 1.17
