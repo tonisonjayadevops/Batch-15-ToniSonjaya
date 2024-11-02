@@ -6,7 +6,7 @@ COPY go.mod ./
 COPY *.go ./
 COPY static ./static
 
-RUN go build -o /batch15tonisonjaya
+RUN go build -o /batch15-tonisonjaya
 
 EXPOSE 3000
 
