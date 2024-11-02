@@ -37,4 +37,4 @@ jobs:
       uses: docker/build-push-action@v6
       with:
         push: true
-        tags: 
+        tags: tonisonjaya/batch15-tonisonjaya:latest
