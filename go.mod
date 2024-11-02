@@ -1,3 +1,3 @@
 module github.com/tonisonjayadevops/batch15tonisonjaya
 
-go 1.20
+go 1.18
